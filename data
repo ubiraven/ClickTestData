@@ -63,10 +63,5 @@
     "Level": 13,
     "PointsForLevel" : 3000,
     "PointsForOneClick" : 35
-  },
-  {
-    "Level": 14,
-    "PointsForLevel" : 4000,
-    "PointsForOneClick" : 40
   }
 ]
